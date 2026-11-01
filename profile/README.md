@@ -2,7 +2,7 @@
 
 ## About
 
-Triadcoder is a software house focused on building scalable digital solutions, web systems, APIs, SaaS platforms and automation tools.
+Kosm is a startup focused on building scalable digital solutions, web systems, APIs, SaaS platforms and automation tools.
 
 ---
 
